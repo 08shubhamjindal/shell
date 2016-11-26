@@ -1,0 +1,3 @@
+echo "enter ch"
+read ch
+case ch in
